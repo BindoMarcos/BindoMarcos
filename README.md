@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @BindoMarcos
-- 👀 I’m interested in Machine Learning, Robotic, IA & Mobile Developement
-- 🌱 I’m currently learning Kotlin
+- 👀 I’m interested in Machine Learning, Robotic, IA, Mobile Developement, Backend
+- 🌱 I’m currently learning Kotlin, java and their frameworks.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
