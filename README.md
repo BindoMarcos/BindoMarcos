@@ -16,12 +16,13 @@ Hi! I am a self-taught Developer who constantly seeks out innovative solutions t
     "code": [
         "Java",
         "Kotlin",
-        "Python",
+        "JavaScript",
         "C++"
     ],
     "technologies": {
         "backEnd": {
-            "java": "Spring-Boot"
+            "java": "Spring-Boot",
+            "javaScript": "NodeJs & Express"
         },
         "mobileApp": {
             "native": [
