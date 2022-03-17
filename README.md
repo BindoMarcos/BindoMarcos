@@ -1,4 +1,4 @@
-## Hello:heavy_exclamation_mark: my name is Marcos <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40" height="40" />
+## Nice to meet you! My name is Marcos <img src="https://camo.githubusercontent.com/e8e7b06ecf583bc040eb60e44eb5b8e0ecc5421320a92929ce21522dbc34c891/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6876524a434c467a6361737252346961377a2f67697068792e676966" width="40" height="40" />
 
 Hi! I am a self-taught Developer who constantly seeks out innovative solutions to everyday problems. I am looking forward to grow my developing skills to get job in this amazing digital world. Throughout my personal development stage, I have honed my analytical thinking and collaboration skills, and I love working in a team.
 
