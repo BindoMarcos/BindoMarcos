@@ -1,14 +1,14 @@
 Hi 👋 My name is Marcos
 =======================
 
-BackEnd Developer
+Software Developer
 -----------------
 
 I am a self-taught Developer who constantly seeks out innovative solutions to everyday problems. I am looking forward to grow my developing skills to get job in this amazing digital world. Throughout my personal development stage, I have honed my analytical thinking and collaboration skills, and I love working in a team.
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [bindomarcos13@gmail.com](mailto:bindomarcos13@gmail.com)
-* 🧠  I'm learning JavaScript & NodeJS
+* 🧠  I'm learning FrontEnd Stack
 * 🤝  I'm open to collaborating on Projects that make the world a better place
 * ⚡  I am a lover of the Crypto world, either as a consumer or developer.
 
