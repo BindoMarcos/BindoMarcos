@@ -12,10 +12,6 @@ I am a self-taught Developer who constantly seeks out innovative solutions to ev
 * 🤝  I'm open to collaborating on Projects that make the world a better place
 * ⚡  I am a lover of the Crypto world, either as a consumer or developer.
 
-<a href="https://www.twitter.com/Marcos_Bindo" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/Marcos_Bindo?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a>
-
 ### Skills
 
 <p align="left">
